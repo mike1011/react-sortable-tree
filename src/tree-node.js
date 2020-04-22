@@ -146,7 +146,7 @@ class TreeNode extends Component {
       <div
         {...otherProps}
         className={classnames('rst__node', rowDirectionClass)}
-      >
+        style={{height: "8rem", width: "100%"}}>
         {scaffold}
 
         <div className="rst__nodeContent" style={style}>
