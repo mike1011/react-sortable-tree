@@ -58,10 +58,7 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -113,6 +110,9 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
                             className="rst__rowTitle"
                           >
                             Mama Rabbit
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -128,10 +128,7 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -183,6 +180,9 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
                             className="rst__rowTitle"
                           >
                             Papa Rabbit
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -282,10 +282,7 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                 className="rst__node"
                 style={
                   Object {
-                    "height": 62,
-                    "left": 0,
-                    "position": "absolute",
-                    "top": 0,
+                    "height": "8rem",
                     "width": "100%",
                   }
                 }
@@ -337,6 +334,9 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                               className="rst__rowTitle"
                             >
                               1
+                              <span
+                                className="date"
+                              />
                             </span>
                           </div>
                           <div
@@ -352,10 +352,7 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                 className="rst__node"
                 style={
                   Object {
-                    "height": 62,
-                    "left": 0,
-                    "position": "absolute",
-                    "top": 62,
+                    "height": "8rem",
                     "width": "100%",
                   }
                 }
@@ -407,6 +404,9 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                               className="rst__rowTitle"
                             >
                               2
+                              <span
+                                className="date"
+                              />
                             </span>
                           </div>
                           <div
@@ -422,10 +422,7 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                 className="rst__node"
                 style={
                   Object {
-                    "height": 62,
-                    "left": 0,
-                    "position": "absolute",
-                    "top": 124,
+                    "height": "8rem",
                     "width": "100%",
                   }
                 }
@@ -477,6 +474,9 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                               className="rst__rowTitle"
                             >
                               3
+                              <span
+                                className="date"
+                              />
                             </span>
                           </div>
                           <div
@@ -492,10 +492,7 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                 className="rst__node"
                 style={
                   Object {
-                    "height": 62,
-                    "left": 0,
-                    "position": "absolute",
-                    "top": 186,
+                    "height": "8rem",
                     "width": "100%",
                   }
                 }
@@ -568,6 +565,9 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                               className="rst__rowTitle"
                             >
                               4
+                              <span
+                                className="date"
+                              />
                             </span>
                           </div>
                           <div
@@ -583,10 +583,7 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                 className="rst__node"
                 style={
                   Object {
-                    "height": 62,
-                    "left": 0,
-                    "position": "absolute",
-                    "top": 248,
+                    "height": "8rem",
                     "width": "100%",
                   }
                 }
@@ -646,6 +643,9 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                               className="rst__rowTitle"
                             >
                               5
+                              <span
+                                className="date"
+                              />
                             </span>
                           </div>
                           <div
@@ -724,10 +724,7 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -782,6 +779,9 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                             className="rst__rowTitle"
                           >
                             Red Captain
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -797,10 +797,7 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -855,6 +852,9 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                             className="rst__rowTitle"
                           >
                             Black Captain
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -870,10 +870,7 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 124,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -941,6 +938,9 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                             className="rst__rowTitle"
                           >
                             Green Captain
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1018,10 +1018,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1094,6 +1091,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Managers
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1109,10 +1109,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1172,6 +1169,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Rob
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1187,10 +1187,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 124,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1250,6 +1247,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Joe
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1265,10 +1265,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 186,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1341,6 +1338,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Clerks
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1356,10 +1356,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 248,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1419,6 +1416,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Bertha
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1434,10 +1434,7 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 310,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1497,6 +1494,9 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                             className="rst__rowTitle"
                           >
                             Billy
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1579,10 +1579,7 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1655,6 +1652,9 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
                             className="rst__rowTitle"
                           >
                             Chicken
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1670,10 +1670,7 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1733,6 +1730,9 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
                             className="rst__rowTitle"
                           >
                             Egg
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1813,10 +1813,7 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1881,6 +1878,9 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                             className="rst__rowTitle"
                           >
                             node1
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -1896,10 +1896,7 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -1951,6 +1948,9 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                             className="rst__rowTitle"
                           >
                             node2
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2026,10 +2026,7 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2081,6 +2078,9 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                             className="rst__rowTitle"
                           >
                             node3
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2096,10 +2096,7 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2151,6 +2148,9 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                             className="rst__rowTitle"
                           >
                             node4
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2301,10 +2301,7 @@ exports[`Storyshots Advanced onlyExpandSearchedNodes 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2369,6 +2366,9 @@ exports[`Storyshots Advanced onlyExpandSearchedNodes 1`] = `
                             className="rst__rowTitle"
                           >
                             Haystack
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2446,10 +2446,7 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2501,6 +2498,9 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
                             className="rst__rowTitle"
                           >
                             Peter Olofsson
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2535,10 +2535,7 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2590,6 +2587,9 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
                             className="rst__rowTitle"
                           >
                             Karl Johansson
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2704,10 +2704,7 @@ exports[`Storyshots Basics Callbacks 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2780,6 +2777,9 @@ exports[`Storyshots Basics Callbacks 1`] = `
                             className="rst__rowTitle"
                           >
                             A
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2795,10 +2795,7 @@ exports[`Storyshots Basics Callbacks 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2858,6 +2855,9 @@ exports[`Storyshots Basics Callbacks 1`] = `
                             className="rst__rowTitle"
                           >
                             B
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -2873,10 +2873,7 @@ exports[`Storyshots Basics Callbacks 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 124,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -2928,6 +2925,9 @@ exports[`Storyshots Basics Callbacks 1`] = `
                             className="rst__rowTitle"
                           >
                             C
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -3004,10 +3004,7 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 0,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3080,6 +3077,9 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
                           className="rst__rowTitle"
                         >
                           Chicken
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -3095,10 +3095,7 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 62,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3158,6 +3155,9 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -3234,10 +3234,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -3297,6 +3294,9 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                               }
                               value="IT Manager"
                             />
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -3312,10 +3312,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -3396,6 +3393,9 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                               }
                               value="Regional Manager"
                             />
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -3411,10 +3411,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 124,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -3481,6 +3478,9 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                                 }
                               }
                               value="Branch Manager"
+                            />
+                            <span
+                              className="date"
                             />
                           </span>
                         </div>
@@ -3558,10 +3558,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 0,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3634,6 +3631,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Wicked witch
+                          <span
+                            className="date"
+                          />
                         </span>
                         <span
                           className="rst__rowSubtitle"
@@ -3654,10 +3654,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 62,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3717,6 +3714,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle"
                         >
                           Trapped
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -3732,10 +3732,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 124,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3808,6 +3805,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Jeannie
+                          <span
+                            className="date"
+                          />
                         </span>
                         <span
                           className="rst__rowSubtitle"
@@ -3828,10 +3828,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 186,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3891,6 +3888,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle"
                         >
                           Jimmy
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -3906,10 +3906,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 248,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -3961,6 +3958,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Twin #1
+                          <span
+                            className="date"
+                          />
                         </span>
                         <span
                           className="rst__rowSubtitle"
@@ -3981,10 +3981,7 @@ exports[`Storyshots Basics Prevent drop 1`] = `
             className="rst__node"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 310,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4036,6 +4033,9 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Twin #2
+                          <span
+                            className="date"
+                          />
                         </span>
                         <span
                           className="rst__rowSubtitle"
@@ -4117,10 +4117,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 0,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4193,6 +4190,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Chicken
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4208,10 +4208,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 62,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4271,6 +4268,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4286,10 +4286,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 124,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4349,6 +4346,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4364,10 +4364,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 186,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4427,6 +4424,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4442,10 +4442,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 248,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4505,6 +4502,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4520,10 +4520,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 310,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4583,6 +4580,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4598,10 +4598,7 @@ exports[`Storyshots Basics Row direction support 1`] = `
             className="rst__node rst__rtl"
             style={
               Object {
-                "height": 62,
-                "left": 0,
-                "position": "absolute",
-                "top": 372,
+                "height": "8rem",
                 "width": "100%",
               }
             }
@@ -4661,6 +4658,9 @@ exports[`Storyshots Basics Row direction support 1`] = `
                           className="rst__rowTitle"
                         >
                           Egg
+                          <span
+                            className="date"
+                          />
                         </span>
                       </div>
                       <div
@@ -4781,10 +4781,7 @@ exports[`Storyshots Basics Search 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -4849,6 +4846,9 @@ exports[`Storyshots Basics Search 1`] = `
                             className="rst__rowTitle"
                           >
                             Haystack
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -5382,10 +5382,7 @@ exports[`Storyshots Basics treeData import/export 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 0,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -5437,6 +5434,9 @@ exports[`Storyshots Basics treeData import/export 1`] = `
                             className="rst__rowTitle"
                           >
                             N1
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div
@@ -5452,10 +5452,7 @@ exports[`Storyshots Basics treeData import/export 1`] = `
               className="rst__node"
               style={
                 Object {
-                  "height": 62,
-                  "left": 0,
-                  "position": "absolute",
-                  "top": 62,
+                  "height": "8rem",
                   "width": "100%",
                 }
               }
@@ -5520,6 +5517,9 @@ exports[`Storyshots Basics treeData import/export 1`] = `
                             className="rst__rowTitle"
                           >
                             N2
+                            <span
+                              className="date"
+                            />
                           </span>
                         </div>
                         <div

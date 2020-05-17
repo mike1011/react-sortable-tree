@@ -16,6 +16,7 @@ class NodeRendererDefault extends Component {
       canDrag,
       node,
       title,
+      date,
       subtitle,
       draggedNode,
       path,
@@ -33,6 +34,7 @@ class NodeRendererDefault extends Component {
       ...otherProps
     } = this.props;
     const nodeTitle = title || node.title;
+    const nodeDate = date || node.date;
     const nodeSubtitle = subtitle || node.subtitle;
     const rowDirectionClass = rowDirection === 'rtl' ? 'rst__rtl' : null;
 
@@ -146,6 +148,15 @@ class NodeRendererDefault extends Component {
                           treeIndex,
                         })
                       : nodeTitle}
+                      <span className="date">
+                        {typeof nodeDate === 'function'
+                          ? nodeDate({
+                              node,
+                              path,
+                              treeIndex,
+                            })
+                          : nodeDate}
+                      </span>
                   </span>
 
                   {nodeSubtitle && (

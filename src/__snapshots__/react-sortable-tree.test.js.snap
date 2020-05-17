@@ -50,10 +50,7 @@ exports[`<SortableTree /> should render tree correctly 1`] = `
           className="rst__node"
           style={
             Object {
-              "height": 62,
-              "left": 0,
-              "position": "absolute",
-              "top": 0,
+              "height": "8rem",
               "width": "100%",
             }
           }
@@ -103,7 +100,11 @@ exports[`<SortableTree /> should render tree correctly 1`] = `
                     >
                       <span
                         className="rst__rowTitle"
-                      />
+                      >
+                        <span
+                          className="date"
+                        />
+                      </span>
                     </div>
                     <div
                       className="rst__rowToolbar"

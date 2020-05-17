@@ -1886,6 +1886,7 @@ function (_Component) {
           canDrag = _this$props.canDrag,
           node = _this$props.node,
           title = _this$props.title,
+          date = _this$props.date,
           subtitle = _this$props.subtitle,
           draggedNode = _this$props.draggedNode,
           path = _this$props.path,
@@ -1900,9 +1901,10 @@ function (_Component) {
           isOver = _this$props.isOver,
           parentNode = _this$props.parentNode,
           rowDirection = _this$props.rowDirection,
-          otherProps = _objectWithoutProperties(_this$props, ["scaffoldBlockPxWidth", "toggleChildrenVisibility", "connectDragPreview", "connectDragSource", "isDragging", "canDrop", "canDrag", "node", "title", "subtitle", "draggedNode", "path", "treeIndex", "isSearchMatch", "isSearchFocus", "buttons", "className", "style", "didDrop", "treeId", "isOver", "parentNode", "rowDirection"]);
+          otherProps = _objectWithoutProperties(_this$props, ["scaffoldBlockPxWidth", "toggleChildrenVisibility", "connectDragPreview", "connectDragSource", "isDragging", "canDrop", "canDrag", "node", "title", "date", "subtitle", "draggedNode", "path", "treeIndex", "isSearchMatch", "isSearchFocus", "buttons", "className", "style", "didDrop", "treeId", "isOver", "parentNode", "rowDirection"]);
 
       var nodeTitle = title || node.title;
+      var nodeDate = date || node.date;
       var nodeSubtitle = subtitle || node.subtitle;
       var rowDirectionClass = rowDirection === 'rtl' ? 'rst__rtl' : null;
       var handle;
@@ -1982,7 +1984,13 @@ function (_Component) {
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeTitle), nodeSubtitle && React__default.createElement("span", {
+      }) : nodeTitle, React__default.createElement("span", {
+        className: "date"
+      }, typeof nodeDate === 'function' ? nodeDate({
+        node: node,
+        path: path,
+        treeIndex: treeIndex
+      }) : nodeDate)), nodeSubtitle && React__default.createElement("span", {
         className: "rst__rowSubtitle"
       }, typeof nodeSubtitle === 'function' ? nodeSubtitle({
         node: node,
