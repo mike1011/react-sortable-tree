@@ -135,7 +135,20 @@ class NodeRendererDefault extends Component {
                 )}
               >
                 <div className={classnames('rst__rowLabel', rowDirectionClass)}>
-                  <span
+
+                <div className="date">
+                      <span className="date">
+                        {typeof nodeDate === 'function'
+                          ? nodeDate({
+                              node,
+                              path,
+                              treeIndex,
+                            })
+                          : nodeDate}
+                      </span>
+                </div>
+
+                  <div
                     className={classnames(
                       'rst__rowTitle',
                       node.subtitle && 'rst__rowTitleWithSubtitle'
@@ -148,16 +161,8 @@ class NodeRendererDefault extends Component {
                           treeIndex,
                         })
                       : nodeTitle}
-                      <span className="date">
-                        {typeof nodeDate === 'function'
-                          ? nodeDate({
-                              node,
-                              path,
-                              treeIndex,
-                            })
-                          : nodeDate}
-                      </span>
-                  </span>
+                  </div>
+
 
                   {nodeSubtitle && (
                     <span className="rst__rowSubtitle">

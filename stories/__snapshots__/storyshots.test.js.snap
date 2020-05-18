@@ -106,14 +106,18 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Mama Rabbit
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Mama Rabbit
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -176,14 +180,18 @@ exports[`Storyshots Advanced Drag from external source 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Papa Rabbit
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Papa Rabbit
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -330,14 +338,18 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                           <div
                             className="rst__rowLabel"
                           >
-                            <span
+                            <div
+                              className="date"
+                            >
+                              <span
+                                className="date"
+                              />
+                            </div>
+                            <div
                               className="rst__rowTitle"
                             >
                               1
-                              <span
-                                className="date"
-                              />
-                            </span>
+                            </div>
                           </div>
                           <div
                             className="rst__rowToolbar"
@@ -400,14 +412,18 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                           <div
                             className="rst__rowLabel"
                           >
-                            <span
+                            <div
+                              className="date"
+                            >
+                              <span
+                                className="date"
+                              />
+                            </div>
+                            <div
                               className="rst__rowTitle"
                             >
                               2
-                              <span
-                                className="date"
-                              />
-                            </span>
+                            </div>
                           </div>
                           <div
                             className="rst__rowToolbar"
@@ -470,14 +486,18 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                           <div
                             className="rst__rowLabel"
                           >
-                            <span
-                              className="rst__rowTitle"
+                            <div
+                              className="date"
                             >
-                              3
                               <span
                                 className="date"
                               />
-                            </span>
+                            </div>
+                            <div
+                              className="rst__rowTitle"
+                            >
+                              3
+                            </div>
                           </div>
                           <div
                             className="rst__rowToolbar"
@@ -561,14 +581,18 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                           <div
                             className="rst__rowLabel"
                           >
-                            <span
-                              className="rst__rowTitle"
+                            <div
+                              className="date"
                             >
-                              4
                               <span
                                 className="date"
                               />
-                            </span>
+                            </div>
+                            <div
+                              className="rst__rowTitle"
+                            >
+                              4
+                            </div>
                           </div>
                           <div
                             className="rst__rowToolbar"
@@ -639,14 +663,18 @@ exports[`Storyshots Advanced Drag out to remove 1`] = `
                           <div
                             className="rst__rowLabel"
                           >
-                            <span
-                              className="rst__rowTitle"
+                            <div
+                              className="date"
                             >
-                              5
                               <span
                                 className="date"
                               />
-                            </span>
+                            </div>
+                            <div
+                              className="rst__rowTitle"
+                            >
+                              5
+                            </div>
                           </div>
                           <div
                             className="rst__rowToolbar"
@@ -775,14 +803,18 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Red Captain
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Red Captain
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -848,14 +880,18 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Black Captain
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Black Captain
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -934,14 +970,18 @@ exports[`Storyshots Advanced Playing with generateNodeProps 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Green Captain
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Green Captain
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1087,14 +1127,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Managers
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Managers
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1165,14 +1209,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Rob
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Rob
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1243,14 +1291,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Joe
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Joe
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1334,14 +1386,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Clerks
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Clerks
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1412,14 +1468,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Bertha
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Bertha
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1490,14 +1550,18 @@ exports[`Storyshots Advanced Prevent some nodes from having children 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Billy
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Billy
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1648,14 +1712,18 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Chicken
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Chicken
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1726,14 +1794,18 @@ exports[`Storyshots Advanced Touch support (Experimental) 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Egg
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Egg
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1874,14 +1946,18 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            node1
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            node1
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -1944,14 +2020,18 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            node2
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            node2
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2074,14 +2154,18 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            node3
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            node3
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2144,14 +2228,18 @@ exports[`Storyshots Advanced Tree-to-tree dragging 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            node4
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            node4
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2362,14 +2450,18 @@ exports[`Storyshots Advanced onlyExpandSearchedNodes 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Haystack
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Haystack
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2494,14 +2586,18 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Peter Olofsson
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Peter Olofsson
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2583,14 +2679,18 @@ exports[`Storyshots Basics Add and remove nodes programmatically 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Karl Johansson
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Karl Johansson
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2773,14 +2873,18 @@ exports[`Storyshots Basics Callbacks 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            A
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            A
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2851,14 +2955,18 @@ exports[`Storyshots Basics Callbacks 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            B
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            B
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -2921,14 +3029,18 @@ exports[`Storyshots Basics Callbacks 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            C
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            C
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -3073,14 +3185,18 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Chicken
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Chicken
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -3151,14 +3267,18 @@ exports[`Storyshots Basics Minimal implementation 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -3282,7 +3402,14 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
+                          <div
+                            className="date"
+                          >
+                            <span
+                              className="date"
+                            />
+                          </div>
+                          <div
                             className="rst__rowTitle"
                           >
                             <input
@@ -3294,10 +3421,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                               }
                               value="IT Manager"
                             />
-                            <span
-                              className="date"
-                            />
-                          </span>
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -3381,7 +3505,14 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
+                          <div
+                            className="date"
+                          >
+                            <span
+                              className="date"
+                            />
+                          </div>
+                          <div
                             className="rst__rowTitle"
                           >
                             <input
@@ -3393,10 +3524,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                               }
                               value="Regional Manager"
                             />
-                            <span
-                              className="date"
-                            />
-                          </span>
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -3467,7 +3595,14 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
+                          <div
+                            className="date"
+                          >
+                            <span
+                              className="date"
+                            />
+                          </div>
+                          <div
                             className="rst__rowTitle"
                           >
                             <input
@@ -3479,10 +3614,7 @@ exports[`Storyshots Basics Modify nodes 1`] = `
                               }
                               value="Branch Manager"
                             />
-                            <span
-                              className="date"
-                            />
-                          </span>
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -3627,14 +3759,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        <div
+                          className="date"
                         >
-                          Wicked witch
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        >
+                          Wicked witch
+                        </div>
                         <span
                           className="rst__rowSubtitle"
                         >
@@ -3710,14 +3846,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Trapped
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Trapped
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -3801,14 +3941,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        <div
+                          className="date"
                         >
-                          Jeannie
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        >
+                          Jeannie
+                        </div>
                         <span
                           className="rst__rowSubtitle"
                         >
@@ -3884,14 +4028,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Jimmy
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Jimmy
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -3954,14 +4102,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        <div
+                          className="date"
                         >
-                          Twin #1
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        >
+                          Twin #1
+                        </div>
                         <span
                           className="rst__rowSubtitle"
                         >
@@ -4029,14 +4181,18 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                       <div
                         className="rst__rowLabel"
                       >
-                        <span
-                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        <div
+                          className="date"
                         >
-                          Twin #2
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle rst__rowTitleWithSubtitle"
+                        >
+                          Twin #2
+                        </div>
                         <span
                           className="rst__rowSubtitle"
                         >
@@ -4186,14 +4342,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
+                        <div
+                          className="date"
+                        >
+                          <span
+                            className="date"
+                          />
+                        </div>
+                        <div
                           className="rst__rowTitle"
                         >
                           Chicken
-                          <span
-                            className="date"
-                          />
-                        </span>
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4264,14 +4424,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4342,14 +4506,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4420,14 +4588,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4498,14 +4670,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4576,14 +4752,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4654,14 +4834,18 @@ exports[`Storyshots Basics Row direction support 1`] = `
                       <div
                         className="rst__rowLabel rst__rtl"
                       >
-                        <span
-                          className="rst__rowTitle"
+                        <div
+                          className="date"
                         >
-                          Egg
                           <span
                             className="date"
                           />
-                        </span>
+                        </div>
+                        <div
+                          className="rst__rowTitle"
+                        >
+                          Egg
+                        </div>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4842,14 +5026,18 @@ exports[`Storyshots Basics Search 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            Haystack
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            Haystack
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -5430,14 +5618,18 @@ exports[`Storyshots Basics treeData import/export 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            N1
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            N1
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"
@@ -5513,14 +5705,18 @@ exports[`Storyshots Basics treeData import/export 1`] = `
                         <div
                           className="rst__rowLabel"
                         >
-                          <span
-                            className="rst__rowTitle"
+                          <div
+                            className="date"
                           >
-                            N2
                             <span
                               className="date"
                             />
-                          </span>
+                          </div>
+                          <div
+                            className="rst__rowTitle"
+                          >
+                            N2
+                          </div>
                         </div>
                         <div
                           className="rst__rowToolbar"

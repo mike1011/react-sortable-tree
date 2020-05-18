@@ -98,13 +98,16 @@ exports[`<SortableTree /> should render tree correctly 1`] = `
                     <div
                       className="rst__rowLabel"
                     >
-                      <span
-                        className="rst__rowTitle"
+                      <div
+                        className="date"
                       >
                         <span
                           className="date"
                         />
-                      </span>
+                      </div>
+                      <div
+                        className="rst__rowTitle"
+                      />
                     </div>
                     <div
                       className="rst__rowToolbar"

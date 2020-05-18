@@ -1978,19 +1978,21 @@ function (_Component) {
         className: classnames('rst__rowContents', !canDrag && 'rst__rowContentsDragDisabled', rowDirectionClass)
       }, React__default.createElement("div", {
         className: classnames('rst__rowLabel', rowDirectionClass)
+      }, React__default.createElement("div", {
+        className: "date"
       }, React__default.createElement("span", {
-        className: classnames('rst__rowTitle', node.subtitle && 'rst__rowTitleWithSubtitle')
-      }, typeof nodeTitle === 'function' ? nodeTitle({
-        node: node,
-        path: path,
-        treeIndex: treeIndex
-      }) : nodeTitle, React__default.createElement("span", {
         className: "date"
       }, typeof nodeDate === 'function' ? nodeDate({
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeDate)), nodeSubtitle && React__default.createElement("span", {
+      }) : nodeDate)), React__default.createElement("div", {
+        className: classnames('rst__rowTitle', node.subtitle && 'rst__rowTitleWithSubtitle')
+      }, typeof nodeTitle === 'function' ? nodeTitle({
+        node: node,
+        path: path,
+        treeIndex: treeIndex
+      }) : nodeTitle), nodeSubtitle && React__default.createElement("span", {
         className: "rst__rowSubtitle"
       }, typeof nodeSubtitle === 'function' ? nodeSubtitle({
         node: node,
