@@ -1984,13 +1984,13 @@ function (_Component) {
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeTitle), nodeSubtitle && React.createElement("span", {
+      }) : nodeTitle, nodeSubtitle && React.createElement("span", {
         className: "rst__rowSubtitle"
       }, typeof nodeSubtitle === 'function' ? nodeSubtitle({
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeSubtitle)), React.createElement("div", {
+      }) : nodeSubtitle))), React.createElement("div", {
         className: "rst__rowToolbar"
       }, buttons.map(function (btn, index) {
         return React.createElement("div", {

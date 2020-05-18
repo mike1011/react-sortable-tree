@@ -1992,13 +1992,13 @@ function (_Component) {
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeTitle), nodeSubtitle && React__default.createElement("span", {
+      }) : nodeTitle, nodeSubtitle && React__default.createElement("span", {
         className: "rst__rowSubtitle"
       }, typeof nodeSubtitle === 'function' ? nodeSubtitle({
         node: node,
         path: path,
         treeIndex: treeIndex
-      }) : nodeSubtitle)), React__default.createElement("div", {
+      }) : nodeSubtitle))), React__default.createElement("div", {
         className: "rst__rowToolbar"
       }, buttons.map(function (btn, index) {
         return React__default.createElement("div", {

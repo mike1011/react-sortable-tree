@@ -161,20 +161,19 @@ class NodeRendererDefault extends Component {
                           treeIndex,
                         })
                       : nodeTitle}
+
+                    {nodeSubtitle && (
+                      <span className="rst__rowSubtitle">
+                        {typeof nodeSubtitle === 'function'
+                          ? nodeSubtitle({
+                              node,
+                              path,
+                              treeIndex,
+                            })
+                          : nodeSubtitle}
+                      </span>
+                    )}
                   </div>
-
-
-                  {nodeSubtitle && (
-                    <span className="rst__rowSubtitle">
-                      {typeof nodeSubtitle === 'function'
-                        ? nodeSubtitle({
-                            node,
-                            path,
-                            treeIndex,
-                          })
-                        : nodeSubtitle}
-                    </span>
-                  )}
                 </div>
 
                 <div className="rst__rowToolbar">

@@ -3770,12 +3770,12 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Wicked witch
+                          <span
+                            className="rst__rowSubtitle"
+                          >
+                            Traps people
+                          </span>
                         </div>
-                        <span
-                          className="rst__rowSubtitle"
-                        >
-                          Traps people
-                        </span>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -3952,12 +3952,12 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Jeannie
+                          <span
+                            className="rst__rowSubtitle"
+                          >
+                            Doesn't allow grandchildren
+                          </span>
                         </div>
-                        <span
-                          className="rst__rowSubtitle"
-                        >
-                          Doesn't allow grandchildren
-                        </span>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4113,12 +4113,12 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Twin #1
+                          <span
+                            className="rst__rowSubtitle"
+                          >
+                            Doesn't play with other twin
+                          </span>
                         </div>
-                        <span
-                          className="rst__rowSubtitle"
-                        >
-                          Doesn't play with other twin
-                        </span>
                       </div>
                       <div
                         className="rst__rowToolbar"
@@ -4192,12 +4192,12 @@ exports[`Storyshots Basics Prevent drop 1`] = `
                           className="rst__rowTitle rst__rowTitleWithSubtitle"
                         >
                           Twin #2
+                          <span
+                            className="rst__rowSubtitle"
+                          >
+                            Doesn't play with other twin
+                          </span>
                         </div>
-                        <span
-                          className="rst__rowSubtitle"
-                        >
-                          Doesn't play with other twin
-                        </span>
                       </div>
                       <div
                         className="rst__rowToolbar"
